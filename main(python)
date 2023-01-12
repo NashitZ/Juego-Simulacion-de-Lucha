@@ -76,7 +76,7 @@ def main():
         "incorrecto"
     
     #y comenzamos el combate
-    player1.combat(player2)
+    player1.fight(player2)
 
     
 
