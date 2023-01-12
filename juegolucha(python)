@@ -1,4 +1,5 @@
 nombre de archivo:juegolucha.py
+tipo: python
 
 import random
 import time
