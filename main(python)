@@ -1,4 +1,5 @@
 nombre de archivo main.py
+tipo: python
 
 from juegolucha import *
 
