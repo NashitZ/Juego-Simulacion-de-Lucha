@@ -51,7 +51,7 @@ class Character:
         else:
             print(f"HP: {self.hp} █")
 
-    def combat(self, player2):
+    def fight(self, player2):
         #aca se realiza todo el combate
         i=0
         vida1=self.hp
@@ -123,5 +123,4 @@ class God(Character):
 class Spartan(Character):
     def _init_(self, name, hp, attack, defense):
         super()._init_(name, hp, attack, defense)
-        
         
